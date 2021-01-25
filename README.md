@@ -1,2 +1,19 @@
-# PythonforCS
-파이썬, 컴퓨터 공학 기초 강의 (초급 레벨)
+# Chapter1: Introduction
+
+1. 컴퓨터 시스템
+
+2. 컴파일러와 인터프리터
+
+3. 파이썬
+
+
+
+# Chapter2
+
+
+# Chapter3
+
+
+# Chapter4
+
+# Chapter5
